@@ -1,0 +1,7 @@
+The original data and supporting information may be found here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+No new parameters, measurements were introduced. The manipulation of original data is documented in README.md
+
+
+ 
